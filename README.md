@@ -1,2 +1,0 @@
-# Pages
-public map
